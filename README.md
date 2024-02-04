@@ -13,25 +13,17 @@ Key Steps
 	   •	Cleaned the dataset by handling missing values, removing duplicates, and converting data types.
 	   •	Preprocessed data to ensure suitability for analysis.
     
-	3. Exploratory Data Analysis (EDA):
-	   •	Conducted EDA to understand sales distribution, identify outliers, and explore correlations.
-	   •	Visualized sales trends over time, emphasizing peak periods during Diwali.
-    
-	4. Product Performance Analysis:
+	3. Product Performance Analysis:
 	   •	Analyzed sales performance of individual products.
 	   •	Identified top-selling products and assessed their contribution to overall revenue.
     
-	5. Customer Segmentation:
+	4. Customer Segmentation:
 	   •	Employed clustering techniques to segment customers based on Diwali purchasing behavior.
 	   •	Explored patterns and preferences among different customer segments.
     
-	6. Sales Channel Effectiveness:
+	5. Sales Channel Effectiveness:
 	   •	Investigated the effectiveness of various sales channels during Diwali.
 	   •	Visualized the impact of marketing strategies on sales.
-    
-	7. Predictive Modeling (Optional):
-	   •	Developed predictive models to forecast sales for future Diwali seasons.
-	   •	Evaluated model performance and provided recommendations for improvement.
 
 Tools Used
 
