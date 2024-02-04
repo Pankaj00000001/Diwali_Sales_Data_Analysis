@@ -35,9 +35,9 @@ Key Steps
 
 Tools Used
 
-	•	Programming Language: Python
-	•	Environment: Jupyter Notebook
-	•	Libraries: Matplotlib, Seaborn
+	• Programming Language: Python
+	• Environment: Jupyter Notebook
+	• Libraries: Matplotlib, Seaborn
 
 Visualizations
 
